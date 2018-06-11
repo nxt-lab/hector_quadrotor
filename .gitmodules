@@ -1,0 +1,6 @@
+[submodule "hector_gazebo"]
+	path = hector_gazebo
+	url = https://github.com/tu-darmstadt-ros-pkg/hector_gazebo.git
+[submodule "hector_localization"]
+	path = hector_localization
+	url = https://github.com/tu-darmstadt-ros-pkg/hector_localization.git
